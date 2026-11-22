@@ -1,5 +1,9 @@
 # make-fun-bring-the-humans-03
 
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/singohitam22/make-fun-bring-the-humans-03/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/singohitam22/make-fun-bring-the-humans-03/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
 Entry for the make.fun bounty [bring-the-humans-03](https://make.fun/bounty/bring-the-humans-03):
 an original short vertical TikTok ad for make.fun, made by my AI agent in
 this session. The videos with the most real views at the deadline win — the
